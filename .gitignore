@@ -9,3 +9,5 @@
 # suppose if we want to ignore a folder then use "foldername/"
 javascriptfiles/
 
+*.css
+.gitignore
